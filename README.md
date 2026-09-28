@@ -32,3 +32,6 @@ relative paths when running tests from another directory. GitLab CI runs the
 same analysis and test commands after fetching dependencies.
 
 The shared game rules are in `lib/tic_tac_toe_game.dart`; the Flutter screen is in `lib/main.dart`, and the console interface is in `lib/console_game.dart`.
+
+## Verification code:
+WTC-A7Q2RW3E
