@@ -22,7 +22,7 @@ Run these commands from the project root (the directory containing `pubspec.yaml
 
 ```powershell
 flutter analyze
-flutter test tests
+flutter test test
 ```
 
 Tests import application code with package imports such as
